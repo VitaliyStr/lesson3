@@ -1,0 +1,74 @@
+.headerdiv1 .header1 {
+   color: green;
+}
+.headerdiv1 .textheader {
+   color: yellow;
+}
+
+.headerdiv1 p {
+   color: blueviolet;
+}
+
+h2.header2 {
+   color: chartreuse;
+}
+.div_main .text_p1_divmain {
+   color: cadetblue;
+}
+.div_main p {
+   color: brown;
+}
+.div_main_2 p {
+   color: brown;
+}
+.div_main_2 > p {
+   color: cornflowerblue;
+}
+.header3 {
+   color: red;
+}
+.firstli {
+   color: yellow;
+}
+.div_main_2 ol {
+   color: coral;
+}
+.div_main_3 .priznaks,
+.div_main_3 .down,
+.div_main_3 p {
+   color: darkgoldenrod;
+}
+.div_main_4 .header2 + * {
+   color: darkgreen;
+}
+.div_main_4 .header2 {
+   color: deeppink;
+}
+.div_main_4 > p {
+   color: deeppink;
+}
+.div_main_4 .gender {
+   color: deepskyblue;
+}
+.div_main_5 .header2 {
+   color: olive;
+}
+.div_main_5 p {
+   color: chartreuse;
+}
+.div_main_5 li.li2 {
+   color: orange;
+}
+.div_main_5 .li3,
+.div_main_5 .li4 {
+   color: orchid;
+}
+.div_main_5 .li4 ~ li {
+   color: red;
+}
+.div_main_5 ol ~ p {
+   color: chartreuse;
+}
+#shop {
+   color: aqua;
+}
